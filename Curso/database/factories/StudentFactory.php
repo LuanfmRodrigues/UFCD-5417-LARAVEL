@@ -9,5 +9,7 @@ $factory->define(Student::class, function (Faker $faker) {
     return [
         'name' => $faker->name,
         'email' => $faker->unique()->safeEmail,
+        'created_at' => now(),
+        'updated_at' => now()
     ];
 });

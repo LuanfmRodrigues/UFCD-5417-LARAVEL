@@ -14,7 +14,8 @@ class EnrollmentController extends Controller
      */
     public function index()
     {
-        //
+        $enrollments = Enrollment::all();
+        return view('pages.enrollment.index', ['enrollments' => $enrollments]);
     }
 
     /**

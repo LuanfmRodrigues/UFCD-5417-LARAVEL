@@ -14,7 +14,8 @@ class InstructorController extends Controller
      */
     public function index()
     {
-        //
+        $instructors = Instructor::all();
+        return view('pages.instructor.index',['instructors'=>$instructors]);
     }
 
     /**

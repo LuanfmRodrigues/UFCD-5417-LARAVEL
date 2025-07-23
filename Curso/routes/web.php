@@ -19,4 +19,16 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::prefix('students')->group(function () {
+    Route::get('/', 'StudentController@index')->name('students.index');;
+});
+Route::prefix('enrollments')->group(function () {
+    Route::get('/', 'EnrollmentController@index')->name('enrollments.index');;
+});
+
+Route::prefix('courses')->group(function () {
+    Route::get('/', 'CourseController@index')->name('courses.index');;
+});
+Route::prefix('instructors')->group(function () {
+    Route::get('/', 'InstructorController@index')->name('instructors.index');;
+});

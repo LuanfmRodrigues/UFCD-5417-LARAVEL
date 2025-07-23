@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/migrations/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/migrations/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Player/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Player/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Player/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Player/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/migrations/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/migrations/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Carros/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Carros/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Carros/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Carros/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Crud/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Crud/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Crud/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Crud/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LojaOn/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/LojaOn/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/LojaOn/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LojaOn/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPet2/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPet2/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPet2/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPet2/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPetmsf/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPetmsf/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPetmsf/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPetmsf/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPettodo/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPettodo/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPettodo/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonPettodo/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteModelo/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteModelo/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteModelo/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteModelo/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteTeste/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteTeste/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteTeste/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TesteTeste/tests/Unit" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Player/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/console" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/voku/portable-ascii" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

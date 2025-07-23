@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/PersonPettodo/tests/Unit" />
+        <option value="$PROJECT_DIR$/PersonPettodo/tests/Feature" />
+        <option value="$PROJECT_DIR$/Player/tests/Unit" />
+        <option value="$PROJECT_DIR$/Player/tests/Feature" />
+        <option value="$PROJECT_DIR$/Curso/tests/Unit" />
+        <option value="$PROJECT_DIR$/Curso/tests/Feature" />
+        <option value="$PROJECT_DIR$/PersonPet2/tests/Unit" />
+        <option value="$PROJECT_DIR$/PersonPet2/tests/Feature" />
+        <option value="$PROJECT_DIR$/migrations/tests/Unit" />
+        <option value="$PROJECT_DIR$/migrations/tests/Feature" />
+        <option value="$PROJECT_DIR$/LojaOn/tests/Unit" />
+        <option value="$PROJECT_DIR$/LojaOn/tests/Feature" />
+        <option value="$PROJECT_DIR$/TesteModelo/tests/Unit" />
+        <option value="$PROJECT_DIR$/TesteModelo/tests/Feature" />
+        <option value="$PROJECT_DIR$/TesteTeste/tests/Unit" />
+        <option value="$PROJECT_DIR$/TesteTeste/tests/Feature" />
+        <option value="$PROJECT_DIR$/Crud/tests/Unit" />
+        <option value="$PROJECT_DIR$/Crud/tests/Feature" />
+        <option value="$PROJECT_DIR$/Carros/tests/Unit" />
+        <option value="$PROJECT_DIR$/Carros/tests/Feature" />
+        <option value="$PROJECT_DIR$/PersonPetmsf/tests/Unit" />
+        <option value="$PROJECT_DIR$/PersonPetmsf/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>

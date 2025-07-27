@@ -10,6 +10,5 @@ $factory->define(Customer::class, function (Faker $faker) {
         'name' => $faker->name,
         'document' => $faker->randomNumber($nbDigits = 9, $strict = false),
         'phone' => $faker->phoneNumber,
-
     ];
 });

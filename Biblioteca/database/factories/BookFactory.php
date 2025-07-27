@@ -2,17 +2,14 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\Book;
+use App\book;
 use Faker\Generator as Faker;
 
-$factory->define(Book::class, function (Faker $faker) {
+$factory->define(book::class, function (Faker $faker) {
     return [
         'title' => $faker->sentence($nbWords = 3, $variableNbWords = true),
-        'year_published' => $faker->dateTime(),
-        'author_id' => $faker->numberBetween($min = 1, $max = 20),
-        'publisher_id' => $faker->numberBetween($min = 1, $max = 20),
-
-
-
+        'author_id' => rand(1, 10),
+        'publication_date' => $faker->date($format = 'Y-m-d', $max = 'now'),
+        'publisher_id' => rand(1, 5),
     ];
 });

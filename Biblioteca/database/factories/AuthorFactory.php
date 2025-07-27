@@ -2,13 +2,13 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\author;
+use App\Author;
 use Faker\Generator as Faker;
 
-$factory->define(author::class, function (Faker $faker) {
+$factory->define(Author::class, function (Faker $faker) {
     return [
         'name' => $faker->name,
         'nationality' => $faker->country,
-        'birthdate' => $faker->date($format = 'Y-m-d', $max = 'now'),
+        'birth_date' => $faker->date($format = 'Y-m-d', $max = 'now'),
     ];
 });

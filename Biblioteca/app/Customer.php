@@ -6,8 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Customer extends Model
 {
-    public function requests()
-    {
-        return $this->hasMany(Request::class);
+
+    public function loans(){
+        return $this->hasMany(loan::class);
     }
 }

@@ -9,7 +9,7 @@ $factory->define(Publisher::class, function (Faker $faker) {
     return [
         'name' => $faker->name,
         'address' => $faker->address,
-        'document' => $faker->randomNumber($nbDigits = 9, $strict = false),
         'phone' => $faker->phoneNumber,
+        'document' => $faker->randomNumber($nbDigits = NULL, $strict = false),
     ];
 });

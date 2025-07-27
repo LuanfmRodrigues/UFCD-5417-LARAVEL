@@ -14,7 +14,8 @@ class CustomerController extends Controller
      */
     public function index()
     {
-        //
+        $customers = Customer::all();
+        return view('pages.customer.index',['customers'=>$customers]);
     }
 
     /**

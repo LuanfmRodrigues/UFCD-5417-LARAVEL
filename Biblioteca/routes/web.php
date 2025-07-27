@@ -19,20 +19,19 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::prefix('author')->group(function () {
-    Route::get('/', 'AuthorController@index')->name('author.index');
+Route::prefix('books')->group(function () {
+    Route::get('/', 'BookController@index')->name('books.index');
+
 });
- Route::prefix('book')->group(function () {
-    Route::get('/', 'BookController@index')->name('book.index');
- });
-
- Route::prefix('customer')->group(function () {
-     Route::get('/', 'CustomerController@index')->name('customer.index');
- });
-
- Route::prefix('publisher')->group(function () {
-     Route::get('/', 'PublisherController@index')->name('publisher.index');
- });
- Route::prefix('request')->group(function () {
-     Route::get('/', 'RequestController@index')->name('request.index');
- });
+Route::prefix('authors')->group(function () {
+    Route::get('/', 'AuthorController@index')->name('authors.index');
+});
+Route::prefix('customers')->group(function () {
+    Route::get('/', 'CustomerController@index')->name('customers.index');
+});
+Route::prefix('publishers')->group(function () {
+    Route::get('/', 'PublisherController@index')->name('publishers.index');
+});
+Route::prefix('loans')->group(function () {
+    Route::get('/', 'LoanController@index')->name('loans.index');
+});

@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\author;
+use App\Author;
 use Illuminate\Http\Request;
 
 class AuthorController extends Controller
@@ -14,7 +14,8 @@ class AuthorController extends Controller
      */
     public function index()
     {
-        //
+        $authors = Author::all();
+        return view('pages.author.index',['authors'=>$authors]);
     }
 
     /**
@@ -41,10 +42,10 @@ class AuthorController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\author  $author
+     * @param  \App\Author  $author
      * @return \Illuminate\Http\Response
      */
-    public function show(author $author)
+    public function show(Author $author)
     {
         //
     }
@@ -52,10 +53,10 @@ class AuthorController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\author  $author
+     * @param  \App\Author  $author
      * @return \Illuminate\Http\Response
      */
-    public function edit(author $author)
+    public function edit(Author $author)
     {
         //
     }
@@ -64,10 +65,10 @@ class AuthorController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\author  $author
+     * @param  \App\Author  $author
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, author $author)
+    public function update(Request $request, Author $author)
     {
         //
     }
@@ -75,10 +76,10 @@ class AuthorController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\author  $author
+     * @param  \App\Author  $author
      * @return \Illuminate\Http\Response
      */
-    public function destroy(author $author)
+    public function destroy(Author $author)
     {
         //
     }

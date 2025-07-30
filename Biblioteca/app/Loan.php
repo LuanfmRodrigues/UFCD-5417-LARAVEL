@@ -13,3 +13,4 @@ class Loan extends Model
         return $this->belongsTo(Customer::class);
     }
 }
+
